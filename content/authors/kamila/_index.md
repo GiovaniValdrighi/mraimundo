@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Kamila Benevides #Marcos M. Raimundo
-date: 2023-03
 
 # Full Name (for SEO)
 first_name: Kamila

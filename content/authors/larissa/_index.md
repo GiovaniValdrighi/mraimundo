@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Larissa Okabayashi
-date: 2023-08
 
 # Full Name (for SEO)
 first_name: Larissa

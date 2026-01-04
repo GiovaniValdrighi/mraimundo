@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Caio Prado
-date: 2023-08
 
 # Full name (for SEO)
 first_name: Caio

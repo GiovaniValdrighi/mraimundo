@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Caio Porto
-date: 2023-03
 
 # Full Name (for SEO)
 first_name: Caio

@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Luan Silveira #Marcos M. Raimundo
-date: 2024-03
 
 # Full Name (for SEO)
 first_name: Luan

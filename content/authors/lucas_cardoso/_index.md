@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Lucas Cardoso
-date: 2024-04
 
 # Full Name (for SEO)
 first_name: Lucas

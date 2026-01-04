@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Jansen S. B. Pereira
-date: 2022-08
 
 # Full Name (for SEO)
 first_name: Jansen

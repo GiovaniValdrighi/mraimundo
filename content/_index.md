@@ -5,7 +5,7 @@ date: 2024-06-20
 type: landing
 
 sections:
-  - block: about.biography
+  - block: about.avatar
     id: about
     content:
       title: |

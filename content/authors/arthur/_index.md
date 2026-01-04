@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Arthur Hendricks M. de Oliveira
-date: 2022-08
 
 # Full Name (for SEO)
 first_name: Arthur Hendricks

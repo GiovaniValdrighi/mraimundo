@@ -1,7 +1,6 @@
 ---
 # Display name
 title: Athyrson M. Ribeiro
-date: 2024-02
 
 # Full Name (for SEO)
 first_name: Athyrson

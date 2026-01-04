@@ -1,7 +1,6 @@
 ---
 # Display name
 title: João Victor P. B. Avanzini
-date: 2023-03
 
 # Full Name (for SEO)
 first_name: João Victor
