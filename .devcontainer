@@ -1,0 +1,28 @@
+{
+  "name": "Hugo Dev Environment",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/hugo:1": {
+      "version": "latest",
+      "extended": true
+    },
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "latest"
+    }
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": ["rusnasonov.vscode-hugo"],
+      "settings": {
+        "files.autoSave": "afterDelay"
+      }
+    }
+  },
+  "postCreateCommand": "hugo mod get && hugo mod tidy",
+  "portsAttributes": {
+    "1313": {
+      "label": "Site Preview",
+      "onAutoForward": "openPreview"
+    }
+  }
+}
