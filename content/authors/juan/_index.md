@@ -70,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Ph.D. Students
+  - Former Researchers
 ---
 
 Juan David Nieto is a Ph.D. candidate in Computer Science at the Institute of Computing at the University of Campinas (IC - UNICAMP). He is a member of the Hub of Artificial Intelligence and Cognitive Architectures (H. IAAC) and also member of the REasoning for COmplex Data (Recod.ai) lab, performing research in probability and statistics for Machine Learning, AI Ethics, explainability and fairness.

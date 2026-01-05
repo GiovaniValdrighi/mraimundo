@@ -28,10 +28,84 @@
     </item>
     
     <item>
-      <title>Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales</title>
-      <link>http://localhost:1313/mraimundo/publication/2024_naacl/2024_naacl/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2024_naacl/2024_naacl/</guid>
+      <title>Gradient-based Algorithms for Multi-objective Optimization</title>
+      <link>http://localhost:1313/mraimundo/projects/mol/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/projects/mol/</guid>
+      <description>&lt;p&gt;This project addresses the fundamental mathematical challenge of optimizing vector-valued functions without reducing them to a single scalar objective a priori. The core research question is: &lt;strong&gt;how do we define and efficiently follow a descent direction when objectives conflict?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While scalar optimization relies on setting the gradient to zero, multi-objective optimization operates under the &lt;strong&gt;Karush-Kuhn-Tucker (KKT)&lt;/strong&gt; conditions for Pareto optimality. Our research focuses on developing rigorous, efficient algorithms to reach these stationary points in continuous, differentiable spaces.&lt;/p&gt;
+&lt;h3 id=&#34;key-research-topics&#34;&gt;Key Research Topics:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Descent Directions:&lt;/strong&gt; Developing algorithms that extend the concepts of Steepest Descent and Newton&amp;rsquo;s method to multiple objectives, solving the quadratic subproblems required to find common descent vectors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilevel Optimization:&lt;/strong&gt; Investigating theoretical properties and solvers for hierarchical problems (Stackelberg games), where one optimization problem is embedded within the constraints of another.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pareto Front Approximation:&lt;/strong&gt; Creating methods to efficiently map the continuous manifold of optimal solutions, rather than finding just a single point.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JAX Implementation:&lt;/strong&gt; Leveraging Just-In-Time (JIT) compilation and automatic differentiation to implement these mathematical concepts in the &lt;strong&gt;&lt;code&gt;jaxmoo&lt;/code&gt;&lt;/strong&gt; library, providing a low-level, high-performance foundation for researchers.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gradient-based Algorithms for Multi-objective Optimization</title>
+      <link>http://localhost:1313/mraimundo/projects/moo/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/projects/moo/</guid>
+      <description>&lt;p&gt;This project addresses the fundamental mathematical challenge of optimizing vector-valued functions without reducing them to a single scalar objective a priori. The core research question is: &lt;strong&gt;how do we define and efficiently follow a descent direction when objectives conflict?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While scalar optimization relies on setting the gradient to zero, multi-objective optimization operates under the &lt;strong&gt;Karush-Kuhn-Tucker (KKT)&lt;/strong&gt; conditions for Pareto optimality. Our research focuses on developing rigorous, efficient algorithms to reach these stationary points in continuous, differentiable spaces.&lt;/p&gt;
+&lt;h3 id=&#34;key-research-topics&#34;&gt;Key Research Topics:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Descent Directions:&lt;/strong&gt; Developing algorithms that extend the concepts of Steepest Descent and Newton&amp;rsquo;s method to multiple objectives, solving the quadratic subproblems required to find common descent vectors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilevel Optimization:&lt;/strong&gt; Investigating theoretical properties and solvers for hierarchical problems (Stackelberg games), where one optimization problem is embedded within the constraints of another.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pareto Front Approximation:&lt;/strong&gt; Creating methods to efficiently map the continuous manifold of optimal solutions, rather than finding just a single point.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JAX Implementation:&lt;/strong&gt; Leveraging Just-In-Time (JIT) compilation and automatic differentiation to implement these mathematical concepts in the &lt;strong&gt;&lt;code&gt;jaxmoo&lt;/code&gt;&lt;/strong&gt; library, providing a low-level, high-performance foundation for researchers.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Combinatorial U-Curve Optimization for Multi-Task Learning: A Task Selection Approach</title>
+      <link>http://localhost:1313/mraimundo/publication/2025-combinatorial-u-curve-optimization-for-multi-task-/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2025-combinatorial-u-curve-optimization-for-multi-task-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CounterCrime - Using Counterfactual Explanations to Explore Crime Reduction Scenarios</title>
+      <link>http://localhost:1313/mraimundo/publication/2025-countercrime-using-counterfactual-explanations-to-/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2025-countercrime-using-counterfactual-explanations-to-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M²FGB: A Min-Max Gradient Boosting Framework for Subgroup Fairness</title>
+      <link>http://localhost:1313/mraimundo/publication/2025-m-fgb-a-min-max-gradient-boosting-framework-for-su/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2025-m-fgb-a-min-max-gradient-boosting-framework-for-su/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-criteria Rank-based Aggregation for Explainable AI</title>
+      <link>http://localhost:1313/mraimundo/publication/2025-multi-criteria-rank-based-aggregation-for-explaina/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2025-multi-criteria-rank-based-aggregation-for-explaina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pareto sensitivity, most-changing sub-fronts, and knee solutions</title>
+      <link>http://localhost:1313/mraimundo/publication/2025-pareto-sensitivity-most-changing-sub-fronts-and-kn/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2025-pareto-sensitivity-most-changing-sub-fronts-and-kn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning Distillation and Structural Alignment for Improved Code Generation</title>
+      <link>http://localhost:1313/mraimundo/publication/2025-reasoning-distillation-and-structural-alignment-fo/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2025-reasoning-distillation-and-structural-alignment-fo/</guid>
       <description></description>
     </item>
     
@@ -179,10 +253,18 @@
     </item>
     
     <item>
-      <title>Enforcing Fairness Using Ensemble of Diverse Pareto-optimal Models</title>
-      <link>http://localhost:1313/mraimundo/publication/2023_dami/2023_dami/</link>
-      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2023_dami/2023_dami/</guid>
+      <title>Best practices for responsible machine learning in credit scoring</title>
+      <link>http://localhost:1313/mraimundo/publication/2024-best-practices-for-responsible-machine-learning-in/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2024-best-practices-for-responsible-machine-learning-in/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Trade-off Between Model Performance and Explanation Plausibility of Text Classifiers Using Human Rationales</title>
+      <link>http://localhost:1313/mraimundo/publication/2024-exploring-the-trade-off-between-model-performance-/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2024-exploring-the-trade-off-between-model-performance-/</guid>
       <description></description>
     </item>
     
@@ -272,10 +354,10 @@
     </item>
     
     <item>
-      <title>Mining Pareto-optimal Counterfactual Antecedents with a Branch-and-Bound Model-agnostic Algorithm</title>
-      <link>http://localhost:1313/mraimundo/publication/2022_dami/2022_dami/</link>
-      <pubDate>Fri, 16 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2022_dami/2022_dami/</guid>
+      <title>Enforcing fairness using ensemble of diverse Pareto-optimal models</title>
+      <link>http://localhost:1313/mraimundo/publication/2023-enforcing-fairness-using-ensemble-of-diverse-paret/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2023-enforcing-fairness-using-ensemble-of-diverse-paret/</guid>
       <description></description>
     </item>
     
@@ -312,6 +394,22 @@
     </item>
     
     <item>
+      <title>An algorithm for multi-task learning based on combinatorial optimization of U-curves</title>
+      <link>http://localhost:1313/mraimundo/publication/2022-an-algorithm-for-multi-task-learning-based-on-comb/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2022-an-algorithm-for-multi-task-learning-based-on-comb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing the Equity of the Brazilian National High School Exam by Validating the Item Response Theory&#39;s Invariance</title>
+      <link>http://localhost:1313/mraimundo/publication/2022-analyzing-the-equity-of-the-brazilian-national-hig/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2022-analyzing-the-equity-of-the-brazilian-national-hig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>EEI744 - Pesquisa Operacional II (UFRJ)</title>
       <link>http://localhost:1313/mraimundo/teaching/po_ii_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
@@ -334,26 +432,26 @@
     </item>
     
     <item>
-      <title>Analyzing the Equity of the Brazilian National High School Exam by Validating the Item Response Theory’s Invariance</title>
-      <link>http://localhost:1313/mraimundo/publication/2022_edm/2022_edm/</link>
-      <pubDate>Mon, 20 Sep 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2022_edm/2022_edm/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>CriPAV: Street-Level Crime Patterns Analysis and Visualization</title>
-      <link>http://localhost:1313/mraimundo/publication/2021_tvcg/2021_tvcg/</link>
-      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2021_tvcg/2021_tvcg/</guid>
+      <link>http://localhost:1313/mraimundo/publication/2021-cripav-street-level-crime-patterns-analysis-and-vi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2021-cripav-street-level-crime-patterns-analysis-and-vi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploring multiobjective training in multiclass classification</title>
-      <link>http://localhost:1313/mraimundo/publication/2020_neurocomputing/2020_neurocomputing/</link>
-      <pubDate>Fri, 07 May 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2020_neurocomputing/2020_neurocomputing/</guid>
+      <link>http://localhost:1313/mraimundo/publication/2021-exploring-multiobjective-training-in-multiclass-cl/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2021-exploring-multiobjective-training-in-multiclass-cl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mining Pareto-optimal counterfactual antecedents with a branch-and-bound model-agnostic algorithm</title>
+      <link>http://localhost:1313/mraimundo/publication/2021-mining-pareto-optimal-counterfactual-antecedents-w/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2021-mining-pareto-optimal-counterfactual-antecedents-w/</guid>
       <description></description>
     </item>
     
@@ -380,22 +478,6 @@
     </item>
     
     <item>
-      <title>An extension of the non-inferior set estimation algorithm for many objectives</title>
-      <link>http://localhost:1313/mraimundo/publication/2020_ejor/2020_ejor/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2020_ejor/2020_ejor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multi-criteria analysis involving Pareto-optimal misclassification tradeoffs on imbalanced datasets</title>
-      <link>http://localhost:1313/mraimundo/publication/2020_ijcnn/2020_ijcnn/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2020_ijcnn/2020_ijcnn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ethical AI</title>
       <link>http://localhost:1313/mraimundo/projects/ethicalai/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
@@ -404,80 +486,51 @@
     </item>
     
     <item>
-      <title>Exploring multi-objective optimization to deal with multiple feature extractions in detection of epileptic seizures</title>
-      <link>http://localhost:1313/mraimundo/publication/2019_brainn/2019_brainn/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2019_brainn/2019_brainn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Investigating multiobjective methods in multitask classification</title>
-      <link>http://localhost:1313/mraimundo/publication/2018_ijcnn/2018_ijcnn/</link>
-      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2018_ijcnn/2018_ijcnn/</guid>
+      <title>Multi-criteria analysis involving Pareto-optimal misclassification tradeoffs on imbalanced datasets</title>
+      <link>http://localhost:1313/mraimundo/publication/2020-multi-criteria-analysis-involving-pareto-optimal-m/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2020-multi-criteria-analysis-involving-pareto-optimal-m/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ant genera identification using an ensemble of convolutional neural networks</title>
-      <link>http://localhost:1313/mraimundo/publication/2018_plos/2018_plos/</link>
+      <link>http://localhost:1313/mraimundo/publication/2018-ant-genera-identification-using-an-ensemble-of-con/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2018_plos/2018_plos/</guid>
+      <guid>http://localhost:1313/mraimundo/publication/2018-ant-genera-identification-using-an-ensemble-of-con/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating multiobjective methods in multitask classification</title>
+      <link>http://localhost:1313/mraimundo/publication/2018-investigating-multiobjective-methods-in-multitask-/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2018-investigating-multiobjective-methods-in-multitask-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An extension of the non-inferior set estimation algorithm for many objectives</title>
+      <link>http://localhost:1313/mraimundo/publication/2017-an-extension-of-the-non-inferior-set-estimation-al/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2017-an-extension-of-the-non-inferior-set-estimation-al/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ensembles of Multiobjective-Based Classifiers for Detection of Epileptic Seizures</title>
-      <link>http://localhost:1313/mraimundo/publication/2018_ciarp1/2018_ciarp1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2018_ciarp1/2018_ciarp1/</guid>
+      <link>http://localhost:1313/mraimundo/publication/2017-ensembles-of-multiobjective-based-classifiers-for-/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/publication/2017-ensembles-of-multiobjective-based-classifiers-for-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Many-Objective Ensemble-Based Multilabel Classification</title>
-      <link>http://localhost:1313/mraimundo/publication/2018_ciarp2/2018_ciarp2/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2018_ciarp2/2018_ciarp2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ensembles of Multiobjective-Based Classifiers for Detection of Epileptic Seizures</title>
-      <link>http://localhost:1313/mraimundo/publication/2017_brainn/2017_brainn/</link>
+      <link>http://localhost:1313/mraimundo/publication/2017-many-objective-ensemble-based-multilabel-classific/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2017_brainn/2017_brainn/</guid>
+      <guid>http://localhost:1313/mraimundo/publication/2017-many-objective-ensemble-based-multilabel-classific/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>MONISE - Many Objective Non-Inferior Set Estimation</title>
-      <link>http://localhost:1313/mraimundo/publication/2017_arxiv/2017_arxiv/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/publication/2017_arxiv/2017_arxiv/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multiobjective optimization in machine learning</title>
-      <link>http://localhost:1313/mraimundo/projects/mol/</link>
-      <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/projects/mol/</guid>
-      <description>&lt;p&gt;Machine learning problems commonly have to deal with implicit or explicit conflicting objectives, thus leading to trade-offs. One of the most traditional is the model complexity vs. error rate on training trade-off. However, more complex is the model, more capable to adapt to data, thus reducing error; and vice-versa. But there are many other conflicting goals such as: error rate on each class; error rate vs. interpretability; error rate vs. fairness metrics.&lt;/p&gt;
-&lt;p&gt;Previous research investigated the impact of optimization methods in machine learning, finding interesting impacts of multi-objective optimization in model selection, ensemble diversity, and knowledge sharing for classification problems, and esulted in applications in biology, medicine, logistics, and power transmissions; and also have theoretical contributions to machine learning, operations research, and multi-objective optimization.&lt;/p&gt;
-&lt;p&gt;This project has three main goals: 1) Create a software framework to ease modeling and running conflicting objectives in machine learning; 2) Investigate theoretical consequences of modeling machine learning problems as multi-objective ones; 3) Creation of models to be employed in a wide sprectrum of applications. As a result, we expect to create a helpful framework that would machine learning experts to model tasks with conflicting objectives.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Algorithms for Multi-objective Optimization</title>
-      <link>http://localhost:1313/mraimundo/projects/moo/</link>
-      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mraimundo/projects/moo/</guid>
-      <description>&lt;p&gt;Many practical applications are better modeled as optimization problem, characterized by the existence of multiple conflicting objectives. A classical and usual example is the compromise between maximizing consumer satisfaction and minimizing service cost. Indeed, dealing with conflicting objectives is omnipresent in our lives, and a significant portion of these multi-objective problems admits a proper mathematical formulation, so that we may resort to computational resources to obtain Pareto-optimal solutions, also called non-inferior solutions.&lt;/p&gt;
-&lt;p&gt;Without any assumption from the decision maker, all non-inferior solutions are equally relevant, so what we want to research in this project are algorithms capable of find a good representative set of non inferior solutions - those methods are called a posteriori multiobjective methods. This optimization framework can be applied to logistic problems, economics and &lt;a href=&#34;../mol/&#34;&gt;machine learning&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

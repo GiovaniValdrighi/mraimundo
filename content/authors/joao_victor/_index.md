@@ -72,7 +72,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Former Researchers
 ---
 
 João Avanzini is an M.Sc student at the Institute of Computing (IC), University of Campinas (UNICAMP). He is also a scientific researcher at the laboratory REasoning for Complex Data (Recod.ai). His research concerns medical electrocardiogram data, with a particular emphasis on AI ethics.

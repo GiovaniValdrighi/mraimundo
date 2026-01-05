@@ -5,7 +5,7 @@
     <link>http://localhost:1313/mraimundo/tag/mathematical-programming/</link>
       <atom:link href="http://localhost:1313/mraimundo/tag/mathematical-programming/index.xml" rel="self" type="application/rss+xml" />
     <description>Mathematical Programming</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/mraimundo/media/icon_hu_ff945c07853dd4a6.png</url>
       <title>Mathematical Programming</title>
@@ -13,12 +13,36 @@
     </image>
     
     <item>
-      <title>Algorithms for Multi-objective Optimization</title>
+      <title>Gradient-based Algorithms for Multi-objective Optimization</title>
+      <link>http://localhost:1313/mraimundo/projects/mol/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/mraimundo/projects/mol/</guid>
+      <description>&lt;p&gt;This project addresses the fundamental mathematical challenge of optimizing vector-valued functions without reducing them to a single scalar objective a priori. The core research question is: &lt;strong&gt;how do we define and efficiently follow a descent direction when objectives conflict?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While scalar optimization relies on setting the gradient to zero, multi-objective optimization operates under the &lt;strong&gt;Karush-Kuhn-Tucker (KKT)&lt;/strong&gt; conditions for Pareto optimality. Our research focuses on developing rigorous, efficient algorithms to reach these stationary points in continuous, differentiable spaces.&lt;/p&gt;
+&lt;h3 id=&#34;key-research-topics&#34;&gt;Key Research Topics:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Descent Directions:&lt;/strong&gt; Developing algorithms that extend the concepts of Steepest Descent and Newton&amp;rsquo;s method to multiple objectives, solving the quadratic subproblems required to find common descent vectors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilevel Optimization:&lt;/strong&gt; Investigating theoretical properties and solvers for hierarchical problems (Stackelberg games), where one optimization problem is embedded within the constraints of another.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pareto Front Approximation:&lt;/strong&gt; Creating methods to efficiently map the continuous manifold of optimal solutions, rather than finding just a single point.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JAX Implementation:&lt;/strong&gt; Leveraging Just-In-Time (JIT) compilation and automatic differentiation to implement these mathematical concepts in the &lt;strong&gt;&lt;code&gt;jaxmoo&lt;/code&gt;&lt;/strong&gt; library, providing a low-level, high-performance foundation for researchers.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gradient-based Algorithms for Multi-objective Optimization</title>
       <link>http://localhost:1313/mraimundo/projects/moo/</link>
-      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/mraimundo/projects/moo/</guid>
-      <description>&lt;p&gt;Many practical applications are better modeled as optimization problem, characterized by the existence of multiple conflicting objectives. A classical and usual example is the compromise between maximizing consumer satisfaction and minimizing service cost. Indeed, dealing with conflicting objectives is omnipresent in our lives, and a significant portion of these multi-objective problems admits a proper mathematical formulation, so that we may resort to computational resources to obtain Pareto-optimal solutions, also called non-inferior solutions.&lt;/p&gt;
-&lt;p&gt;Without any assumption from the decision maker, all non-inferior solutions are equally relevant, so what we want to research in this project are algorithms capable of find a good representative set of non inferior solutions - those methods are called a posteriori multiobjective methods. This optimization framework can be applied to logistic problems, economics and &lt;a href=&#34;../mol/&#34;&gt;machine learning&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;This project addresses the fundamental mathematical challenge of optimizing vector-valued functions without reducing them to a single scalar objective a priori. The core research question is: &lt;strong&gt;how do we define and efficiently follow a descent direction when objectives conflict?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;While scalar optimization relies on setting the gradient to zero, multi-objective optimization operates under the &lt;strong&gt;Karush-Kuhn-Tucker (KKT)&lt;/strong&gt; conditions for Pareto optimality. Our research focuses on developing rigorous, efficient algorithms to reach these stationary points in continuous, differentiable spaces.&lt;/p&gt;
+&lt;h3 id=&#34;key-research-topics&#34;&gt;Key Research Topics:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Descent Directions:&lt;/strong&gt; Developing algorithms that extend the concepts of Steepest Descent and Newton&amp;rsquo;s method to multiple objectives, solving the quadratic subproblems required to find common descent vectors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bilevel Optimization:&lt;/strong&gt; Investigating theoretical properties and solvers for hierarchical problems (Stackelberg games), where one optimization problem is embedded within the constraints of another.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pareto Front Approximation:&lt;/strong&gt; Creating methods to efficiently map the continuous manifold of optimal solutions, rather than finding just a single point.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JAX Implementation:&lt;/strong&gt; Leveraging Just-In-Time (JIT) compilation and automatic differentiation to implement these mathematical concepts in the &lt;strong&gt;&lt;code&gt;jaxmoo&lt;/code&gt;&lt;/strong&gt; library, providing a low-level, high-performance foundation for researchers.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

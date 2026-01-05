@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Former Researchers
 ---
 
 Arthur H. Mendes de Oliveira is a Master's student at University of Campinas (UNICAMP), in the Institute of Computing (IC). His research interests includes Machine Learning, Ethical AI, Explainability.

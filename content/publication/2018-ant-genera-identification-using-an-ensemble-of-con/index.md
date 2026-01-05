@@ -1,0 +1,32 @@
+---
+title: Ant genera identification using an ensemble of convolutional neural networks
+date: '2018-01-01'
+authors:
+- A. C. R. Marques
+- Marcos M Raimundo
+- Ellen Marianne B Cavalheiro
+- Luis F P Salles
+- Christiano Lyra
+- Fernando J Von Zuben
+publication_types:
+- '2'
+publication: PLoS ONE
+abstract: Works requiring taxonomic knowledge face several challenges, such as arduous
+  identification of many taxa and an insufficient number of taxonomists to identify
+  a great deal of collected organisms. Machine learning tools, particularly convolutional
+  neural networks (CNNs), are then welcome to automatically generate high-performance
+  classifiers from available data. Supported by the image datasets available at the
+  largest online database on ant biology, the AntWeb (www.antweb.org), we propose
+  here an ensemble of CNNs to identify ant genera directly from the head, profile
+  and dorsal perspectives of ant images. Transfer learning is also considered to improve
+  the individual performance of the CNN classifiers. The performance achieved by the
+  classifiers is diverse enough to promote a reduction in the overall classification
+  error when they are combined in an ensemble, achieving an accuracy rate of over
+  80% on top-1 classification and an accuracy of over 90% on top-3 classification.
+featured: false
+projects: []
+links:
+- name: Semantic Scholar
+  url: https://www.semanticscholar.org/paper/1f4fe11538a26fbbe9e83e6da2e45b75cc59be91
+url_pdf: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0192011&type=printable
+---

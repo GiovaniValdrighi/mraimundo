@@ -76,6 +76,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Principal Investigator
+
+semantic_scholar_id: "35473883, 2389129845, 35604375, 2364684231"
 ---
 
 Marcos M. Raimundo is an Assistant Professor at University of Campinas (UNICAMP), in the Institute of Computing (IC). He is also a faculty member of the REasoning for COmplex Data laboratory (Recod.ai). His research interests includes Machine Learning, Multi-objective Optimization, Ethical AI, Mathematical Programming.

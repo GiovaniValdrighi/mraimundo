@@ -271,7 +271,7 @@
 
   
 
-<meta name="description" content="Multiobjective optimization in machine learning" />
+<meta name="description" content="Research on continuous optimization methods for vector-valued functions, focusing on steepest descent, Newton-like methods, and bilevel optimization structures using JAX." />
 
 
 
@@ -318,17 +318,17 @@
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Marcos M. Raimundo" />
 <meta property="og:url" content="http://localhost:1313/mraimundo/projects/mol/" />
-<meta property="og:title" content="Multiobjective optimization in machine learning | Marcos M. Raimundo" />
-<meta property="og:description" content="Multiobjective optimization in machine learning" /><meta property="og:image" content="http://localhost:1313/mraimundo/projects/mol/featured.jpg" /><meta property="og:locale" content="en-us" />
+<meta property="og:title" content="Gradient-based Algorithms for Multi-objective Optimization | Marcos M. Raimundo" />
+<meta property="og:description" content="Research on continuous optimization methods for vector-valued functions, focusing on steepest descent, Newton-like methods, and bilevel optimization structures using JAX." /><meta property="og:image" content="http://localhost:1313/mraimundo/projects/mol/featured.jpg" /><meta property="og:locale" content="en-us" />
 
   
     <meta
       property="article:published_time"
-      content="2014-05-01T00:00:00&#43;00:00"
+      content="2025-01-05T00:00:00&#43;00:00"
     />
   
   
-    <meta property="article:modified_time" content="2014-05-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2025-01-05T00:00:00&#43;00:00">
   
 
 
@@ -353,7 +353,7 @@
 
 
   
-  <title>Multiobjective optimization in machine learning | Marcos M. Raimundo</title>
+  <title>Gradient-based Algorithms for Multi-objective Optimization | Marcos M. Raimundo</title>
 
   
   
@@ -738,7 +738,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>Multiobjective optimization in machine learning</h1>
+  <h1>Gradient-based Algorithms for Multi-objective Optimization</h1>
 
   
 
@@ -756,7 +756,7 @@
     
       
     
-    May 1, 2014
+    Jan 5, 2025
   </span>
   
 
@@ -797,13 +797,21 @@
 
 
 
-
-
-
-
-
-
   
+  
+    
+  
+<a class="btn btn-outline-primary btn-page-header" href="https://github.com/marcosmrai/jaxmoo" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+
+
+
+
 
 
 
@@ -819,7 +827,7 @@
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 720px;">
   <div style="position: relative">
     <img src="/mraimundo/projects/mol/featured_hu_2e7bda9daa9ba5e8.webp" width="720" height="720" alt="" class="featured-image">
-    <span class="article-header-caption">Overview of the multiobjective learning framework.</span>
+    <span class="article-header-caption">Convergence trajectory of a gradient-based multi-objective solver.</span>
   </div>
 </div>
 
@@ -828,9 +836,15 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Machine learning problems commonly have to deal with implicit or explicit conflicting objectives, thus leading to trade-offs. One of the most traditional is the model complexity vs. error rate on training trade-off. However, more complex is the model, more capable to adapt to data, thus reducing error; and vice-versa. But there are many other conflicting goals such as: error rate on each class; error rate vs. interpretability; error rate vs. fairness metrics.</p>
-<p>Previous research investigated the impact of optimization methods in machine learning, finding interesting impacts of multi-objective optimization in model selection, ensemble diversity, and knowledge sharing for classification problems, and esulted in applications in biology, medicine, logistics, and power transmissions; and also have theoretical contributions to machine learning, operations research, and multi-objective optimization.</p>
-<p>This project has three main goals: 1) Create a software framework to ease modeling and running conflicting objectives in machine learning; 2) Investigate theoretical consequences of modeling machine learning problems as multi-objective ones; 3) Creation of models to be employed in a wide sprectrum of applications. As a result, we expect to create a helpful framework that would machine learning experts to model tasks with conflicting objectives.</p>
+      <p>This project addresses the fundamental mathematical challenge of optimizing vector-valued functions without reducing them to a single scalar objective a priori. The core research question is: <strong>how do we define and efficiently follow a descent direction when objectives conflict?</strong></p>
+<p>While scalar optimization relies on setting the gradient to zero, multi-objective optimization operates under the <strong>Karush-Kuhn-Tucker (KKT)</strong> conditions for Pareto optimality. Our research focuses on developing rigorous, efficient algorithms to reach these stationary points in continuous, differentiable spaces.</p>
+<h3 id="key-research-topics">Key Research Topics:</h3>
+<ul>
+<li><strong>Descent Directions:</strong> Developing algorithms that extend the concepts of Steepest Descent and Newton&rsquo;s method to multiple objectives, solving the quadratic subproblems required to find common descent vectors.</li>
+<li><strong>Bilevel Optimization:</strong> Investigating theoretical properties and solvers for hierarchical problems (Stackelberg games), where one optimization problem is embedded within the constraints of another.</li>
+<li><strong>Pareto Front Approximation:</strong> Creating methods to efficiently map the continuous manifold of optimal solutions, rather than finding just a single point.</li>
+<li><strong>JAX Implementation:</strong> Leveraging Just-In-Time (JIT) compilation and automatic differentiation to implement these mathematical concepts in the <strong><code>jaxmoo</code></strong> library, providing a low-level, high-performance foundation for researchers.</li>
+</ul>
 
     </div>
 
@@ -842,11 +856,15 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/mraimundo/tag/multi-objective-learning/">Multi-Objective Learning</a>
+  <a class="badge badge-light" href="/mraimundo/tag/mathematical-programming/">Mathematical Programming</a>
   
-  <a class="badge badge-light" href="/mraimundo/tag/machine-learning/">Machine Learning</a>
+  <a class="badge badge-light" href="/mraimundo/tag/continuous-optimization/">Continuous Optimization</a>
   
-  <a class="badge badge-light" href="/mraimundo/tag/multi-objective-optimization/">Multi-Objective Optimization</a>
+  <a class="badge badge-light" href="/mraimundo/tag/bilevel-optimization/">Bilevel Optimization</a>
+  
+  <a class="badge badge-light" href="/mraimundo/tag/jax/">JAX</a>
+  
+  <a class="badge badge-light" href="/mraimundo/tag/numerical-analysis/">Numerical Analysis</a>
   
 </div>
 
@@ -867,7 +885,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F&amp;text=Multiobjective&#43;optimization&#43;in&#43;machine&#43;learning" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F&amp;text=Gradient-based&#43;Algorithms&#43;for&#43;Multi-objective&#43;Optimization" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -884,7 +902,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F&amp;t=Multiobjective&#43;optimization&#43;in&#43;machine&#43;learning" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F&amp;t=Gradient-based&#43;Algorithms&#43;for&#43;Multi-objective&#43;Optimization" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -903,7 +921,7 @@
         
       
       <li>
-        <a href="mailto:?subject=Multiobjective%20optimization%20in%20machine%20learning&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+        <a href="mailto:?subject=Gradient-based%20Algorithms%20for%20Multi-objective%20Optimization&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -920,7 +938,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F&amp;title=Multiobjective&#43;optimization&#43;in&#43;machine&#43;learning" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F&amp;title=Gradient-based&#43;Algorithms&#43;for&#43;Multi-objective&#43;Optimization" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -937,7 +955,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=Multiobjective&#43;optimization&#43;in&#43;machine&#43;learning%20http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+        <a href="whatsapp://send?text=Gradient-based&#43;Algorithms&#43;for&#43;Multi-objective&#43;Optimization%20http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -954,7 +972,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F&amp;title=Multiobjective&#43;optimization&#43;in&#43;machine&#43;learning" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fmraimundo%2Fprojects%2Fmol%2F&amp;title=Gradient-based&#43;Algorithms&#43;for&#43;Multi-objective&#43;Optimization" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

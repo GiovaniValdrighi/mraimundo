@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Former Researchers
 ---
 
 Maria Clara Assunção is an MSc candidate in Mechanical Engineering at the School of Mechanical Engineering at the Universidade Estadual de Campinas (FEM - UNICAMP). She is co-advised by Professor Dr. Marcos Medeiros in her dissertation, which focuses on enhancing machine learning techniques for applications in Prognostics and Health Management (PHM).

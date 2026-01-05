@@ -10,7 +10,7 @@ last_name: Nascimento
 superuser: no
 
 # Role/position
-role: MSc Student in Machine Learning
+role: PhD Student in Machine Learning
 
 # Organizations/Affiliations
 organizations:
@@ -75,6 +75,6 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Ph.D. Students
 ---
 Beatriz is a master's student at UNICAMP's Institute of Computing (IC) and a faculty member at Recod.ai lab. Her research focuses on applying Probabilistic Machine Learning, Riemannian Optimization, and Multi-objective Optimization in Ethical AI problems.

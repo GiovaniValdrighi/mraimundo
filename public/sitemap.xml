@@ -10,6 +10,134 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/mraimundo/tag/bilevel-optimization/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/tag/continuous-optimization/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/projects/mol/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/projects/moo/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/tag/jax/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/tag/mathematical-programming/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/tag/numerical-analysis/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/tags/</loc>
+    <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication-type/2/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/amir-jalilifard/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/anderson-de-rezende-rocha/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2025-combinatorial-u-curve-optimization-for-multi-task-/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2025-countercrime-using-counterfactual-explanations-to-/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/everton-romanzini-colombo/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/g.-k.-bonas/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/germain-garcia-zanabria/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/giovani-valdrighi/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/j.-s.-b.-pereira/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/jorge-poco/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/l.-g.-nonato/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/luis-nunes-vicente/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/m.-m.-raimundo/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2025-m-fgb-a-min-max-gradient-boosting-framework-for-su/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/marcelo-s.-reis/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2025-multi-criteria-rank-based-aggregation-for-explaina/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2025-pareto-sensitivity-most-changing-sub-fronts-and-kn/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication_types/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2025-reasoning-distillation-and-structural-alignment-fo/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/sujoy-chatterjee/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/tommaso-giovannelli/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/mraimundo/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -20,38 +148,6 @@
   </url><url>
     <loc>http://localhost:1313/mraimundo/teaching/</loc>
     <lastmod>2024-06-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/publication-type/1/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2024_naacl/2024_naacl/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/jorge-poco/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/lucas-resck/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/marcos-m-raimundo/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/publication_types/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/mraimundo/tag/ai/</loc>
@@ -78,10 +174,6 @@
     <lastmod>2024-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/tags/</loc>
-    <lastmod>2024-06-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/mraimundo/tag/object-oriented-programming/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -90,12 +182,56 @@
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2023_dami/2023_dami/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/arthur-hendricks/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/athyrson-m.-ribeiro/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2024-best-practices-for-responsible-machine-learning-in/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/decio-miranda-filho/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2024-exploring-the-trade-off-between-model-performance-/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/felipe-f.-bocca/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/jansen-s.-b.-pereira/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/juan-david-nieto-garcia/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/lucas-resck/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/lucas-wanner/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/marcos-medeiros-raimundo/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/thalita-b.-veronese/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/mraimundo/authors/vitoria-guardieiro/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/mraimundo/tag/aprendizado-de-maquina/</loc>
@@ -122,12 +258,12 @@
     <lastmod>2023-06-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/luis-gustavo-nonato/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/publication/2023-enforcing-fairness-using-ensemble-of-diverse-paret/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2022_dami/2022_dami/</loc>
-    <lastmod>2022-12-16T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/vitoria-guardieiro/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/mraimundo/contact/</loc>
@@ -166,6 +302,34 @@
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2022-an-algorithm-for-multi-task-learning-based-on-comb/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/publication/2022-analyzing-the-equity-of-the-brazilian-national-hig/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/giovana-kerche-bonas/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/i.-d.-computacao/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/marcelo-da/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/marcos-medeiros/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/mraimundo/authors/silva-reis/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/mraimundo/teaching/po_ii_2021/</loc>
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,60 +346,48 @@
     <lastmod>2022-04-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2022_edm/2022_edm/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/a.-c.-r.-marques/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/vitoria-guardieiro/</loc>
-    <lastmod>2021-09-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/alan-caio-r-marques/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/anderson-rocha/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/a.-rocha/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/mraimundo/authors/christiano-lyra/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/claudio-t-silva/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/claudio-t.-silva/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2021_tvcg/2021_tvcg/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/publication/2021-cripav-street-level-crime-patterns-analysis-and-vi/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2020_neurocomputing/2020_neurocomputing/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/publication/2021-exploring-multiobjective-training-in-multiclass-cl/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/fernando-j-von-zuben/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/f.-j.-zuben/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/germain-garcia-zanabria/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/m.-nery/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/marcelo-batista-nery/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/publication/2021-mining-pareto-optimal-counterfactual-antecedents-w/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/marcos-mm-raimundo/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/s.-adorno/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/sergio-franca-adorno-de-abreu/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/thalita-f-drumond/</loc>
-    <lastmod>2021-05-07T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/thalita-f.-drumond/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/mraimundo/post/20-12-02-icml-best-paper/</loc>
@@ -250,18 +402,6 @@
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2020_ejor/2020_ejor/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2020_ijcnn/2020_ijcnn/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/paulo-av-ferreira/</loc>
-    <lastmod>2020-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/mraimundo/projects/ethicalai/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -274,88 +414,52 @@
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication-type/2/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/publication/2020-multi-criteria-analysis-involving-pareto-optimal-m/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2019_brainn/2019_brainn/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/fernando-j.-von-zuben/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/marcos-m.-raimundo/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/f.-j.-von-zuben/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2018_ijcnn/2018_ijcnn/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/m.-m.-raimundo/</loc>
-    <lastmod>2018-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/alan-caio-m.-r./</loc>
+    <loc>http://localhost:1313/mraimundo/publication/2018-ant-genera-identification-using-an-ensemble-of-con/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2018_plos/2018_plos/</loc>
+    <loc>http://localhost:1313/mraimundo/authors/ellen-marianne-b-cavalheiro/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/ellen-marianne-b.-cavalheiro/</loc>
+    <loc>http://localhost:1313/mraimundo/authors/fernando-j-von-zuben/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2018_ciarp1/2018_ciarp1/</loc>
+    <loc>http://localhost:1313/mraimundo/publication/2018-investigating-multiobjective-methods-in-multitask-/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/fernando-s.-beserra/</loc>
+    <loc>http://localhost:1313/mraimundo/authors/luis-f-p-salles/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/authors/luis-f.-p.-salles/</loc>
+    <loc>http://localhost:1313/mraimundo/authors/marcos-m-raimundo/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2018_ciarp2/2018_ciarp2/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2017_brainn/2017_brainn/</loc>
+    <loc>http://localhost:1313/mraimundo/publication/2017-an-extension-of-the-non-inferior-set-estimation-al/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/publication/2017_arxiv/2017_arxiv/</loc>
+    <loc>http://localhost:1313/mraimundo/publication/2017-ensembles-of-multiobjective-based-classifiers-for-/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/tag/multi-objective-learning/</loc>
-    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/f.-s.-beserra/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/tag/multi-objective-optimization/</loc>
-    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/publication/2017-many-objective-ensemble-based-multilabel-classific/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/mraimundo/projects/mol/</loc>
-    <lastmod>2014-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/projects/moo/</loc>
-    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/mraimundo/tag/mathematical-programming/</loc>
-    <lastmod>2013-05-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/mraimundo/authors/p.-ferreira/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/mraimundo/admin/</loc>

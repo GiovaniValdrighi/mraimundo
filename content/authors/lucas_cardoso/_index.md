@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Research Assistants
+  - Former Researchers
 ---
 
 Lucas Cardoso is an Undergrad Research Assistant in Computer Science at the Institute of Computing at the University of Campinas (IC - UNICAMP). He is a member of Recod.ai, performing research in Code Generation using Large Language Models, mainly in the area of Software Testing.

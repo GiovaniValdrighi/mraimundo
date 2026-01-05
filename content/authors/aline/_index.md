@@ -10,7 +10,7 @@ last_name: Azevedo
 superuser: true
 
 # Role/position
-role: Master's student
+role: PhD Student in Machine Learning
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Ph.D. Students
 ---
 
 Aline Azevedo is a master's student at the State University of Campinas (UNICAMP), in the Institute of Computing (IC). She is also a faculty member of the REasoning for COmplex Data (Recod.ai) lab. Her research interests includes Machine Learning, Multi-objective Optimization, Ethical AI.

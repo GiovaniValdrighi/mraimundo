@@ -1,31 +1,36 @@
 ---
-title: Algorithms for Multi-objective Optimization
-summary: 
+title: Gradient-based Algorithms for Multi-objective Optimization
+summary: Research on continuous optimization methods for vector-valued functions, focusing on steepest descent, Newton-like methods, and bilevel optimization structures using JAX.
 tags:
-  - Multi-objective Optimization
   - Mathematical Programming
-date: '2013-05-01'
+  - Continuous Optimization
+  - Bilevel Optimization
+  - JAX
+  - Numerical Analysis
+date: '2025-01-05'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: MONISE's automatically obtained Pareto frontier.
+  caption: Convergence trajectory of a gradient-based multi-objective solver.
   focal_point: Smart
 
-url_code: 'https://github.com/marcosmrai/moopt'
+url_code: 'https://github.com/marcosmrai/jaxmoo'
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+slides: ''
 ---
 
-Many practical applications are better modeled as optimization problem, characterized by the existence of multiple conflicting objectives. A classical and usual example is the compromise between maximizing consumer satisfaction and minimizing service cost. Indeed, dealing with conflicting objectives is omnipresent in our lives, and a significant portion of these multi-objective problems admits a proper mathematical formulation, so that we may resort to computational resources to obtain Pareto-optimal solutions, also called non-inferior solutions. 
+This project addresses the fundamental mathematical challenge of optimizing vector-valued functions without reducing them to a single scalar objective a priori. The core research question is: **how do we define and efficiently follow a descent direction when objectives conflict?**
 
-Without any assumption from the decision maker, all non-inferior solutions are equally relevant, so what we want to research in this project are algorithms capable of find a good representative set of non inferior solutions - those methods are called a posteriori multiobjective methods. This optimization framework can be applied to logistic problems, economics and [machine learning](../mol/).
+While scalar optimization relies on setting the gradient to zero, multi-objective optimization operates under the **Karush-Kuhn-Tucker (KKT)** conditions for Pareto optimality. Our research focuses on developing rigorous, efficient algorithms to reach these stationary points in continuous, differentiable spaces.
+
+### Key Research Topics:
+
+* **Descent Directions:** Developing algorithms that extend the concepts of Steepest Descent and Newton's method to multiple objectives, solving the quadratic subproblems required to find common descent vectors.
+* **Bilevel Optimization:** Investigating theoretical properties and solvers for hierarchical problems (Stackelberg games), where one optimization problem is embedded within the constraints of another.
+* **Pareto Front Approximation:** Creating methods to efficiently map the continuous manifold of optimal solutions, rather than finding just a single point.
+* **JAX Implementation:** Leveraging Just-In-Time (JIT) compilation and automatic differentiation to implement these mathematical concepts in the **`jaxmoo`** library, providing a low-level, high-performance foundation for researchers.

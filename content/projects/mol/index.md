@@ -1,34 +1,36 @@
 ---
-title: Multiobjective optimization in machine learning
-summary: Multiobjective optimization in machine learning
+title: Gradient-based Algorithms for Multi-objective Optimization
+summary: Research on continuous optimization methods for vector-valued functions, focusing on steepest descent, Newton-like methods, and bilevel optimization structures using JAX.
 tags:
-  - Multi-Objective Learning
-  - Machine Learning
-  - Multi-objective Optimization
-date: '2014-05-01'
+  - Mathematical Programming
+  - Continuous Optimization
+  - Bilevel Optimization
+  - JAX
+  - Numerical Analysis
+date: '2025-01-05'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Overview of the multiobjective learning framework.
+  caption: Convergence trajectory of a gradient-based multi-objective solver.
   focal_point: Smart
 
-url_code: ''
+url_code: 'https://github.com/marcosmrai/jaxmoo'
 url_pdf: ''
 url_slides: ''
 url_video: ''
 
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides: example
+slides: ''
 ---
 
-Machine learning problems commonly have to deal with implicit or explicit conflicting objectives, thus leading to trade-offs. One of the most traditional is the model complexity vs. error rate on training trade-off. However, more complex is the model, more capable to adapt to data, thus reducing error; and vice-versa. But there are many other conflicting goals such as: error rate on each class; error rate vs. interpretability; error rate vs. fairness metrics. 
+This project addresses the fundamental mathematical challenge of optimizing vector-valued functions without reducing them to a single scalar objective a priori. The core research question is: **how do we define and efficiently follow a descent direction when objectives conflict?**
 
-Previous research investigated the impact of optimization methods in machine learning, finding interesting impacts of multi-objective optimization in model selection, ensemble diversity, and knowledge sharing for classification problems, and esulted in applications in biology, medicine, logistics, and power transmissions; and also have theoretical contributions to machine learning, operations research, and multi-objective optimization. 
+While scalar optimization relies on setting the gradient to zero, multi-objective optimization operates under the **Karush-Kuhn-Tucker (KKT)** conditions for Pareto optimality. Our research focuses on developing rigorous, efficient algorithms to reach these stationary points in continuous, differentiable spaces.
 
-This project has three main goals: 1) Create a software framework to ease modeling and running conflicting objectives in machine learning; 2) Investigate theoretical consequences of modeling machine learning problems as multi-objective ones; 3) Creation of models to be employed in a wide sprectrum of applications. As a result, we expect to create a helpful framework that would machine learning experts to model tasks with conflicting objectives.
+### Key Research Topics:
+
+* **Descent Directions:** Developing algorithms that extend the concepts of Steepest Descent and Newton's method to multiple objectives, solving the quadratic subproblems required to find common descent vectors.
+* **Bilevel Optimization:** Investigating theoretical properties and solvers for hierarchical problems (Stackelberg games), where one optimization problem is embedded within the constraints of another.
+* **Pareto Front Approximation:** Creating methods to efficiently map the continuous manifold of optimal solutions, rather than finding just a single point.
+* **JAX Implementation:** Leveraging Just-In-Time (JIT) compilation and automatic differentiation to implement these mathematical concepts in the **`jaxmoo`** library, providing a low-level, high-performance foundation for researchers.

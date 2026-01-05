@@ -65,7 +65,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Undergrad Research Assistants
+  - Former Researchers
 ---
 
 Larissa Okabayashi is a Computer Engineering Student at the Institute of Computing at the University of Campinas (IC - UNICAMP). She is a member of the Hub of Artificial Intelligence and Cognitive Architectures (HIAAC), performing research in Trustworthy AI, mainly in the area of using language models for generating explanations in Credit Risk Decision-Making.

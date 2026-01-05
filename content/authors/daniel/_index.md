@@ -10,7 +10,7 @@ last_name: G. Gratti
 superuser: false
 
 # Role/position
-role: MSc student in Machine Learning
+role: PhD Student in Machine Learning
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Ph.D. Students
 ---
 
 Daniel Gardin is a master’s student at the Institute of Computing at the University of Campinas (IC - UNICAMP). He is also a faculty member of the REasoning for COmplex Data (Recod.ai) lab. Mostly interested in Reinforcement Learning, Operational Research and Optimization.

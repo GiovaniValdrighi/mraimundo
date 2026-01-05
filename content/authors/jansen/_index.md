@@ -68,7 +68,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Master Students
+  - Former Researchers
 ---
 
 Jansen S. B. Pereira is a Master's student at the Institute of Computing (IC) of the University of Campinas (Unicamp). He is interested in research in the Ethics of Artificial Intelligence, Machine Learning, and Data Science. Researcher at the Artificial Intelligence and Cognitive Architectures Hub (H.IAAC) at Unicamp. His current research is immersed in the goal of AI for Finance, we are investigating critical issues of fairness, explainability, and reject inference in credit analysis.
