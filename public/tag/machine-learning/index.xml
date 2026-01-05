@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Machine Learning | Marcos M. Raimundo</title>
-    <link>http://ic.unicamp.br/mraimundo/tag/machine-learning/</link>
-      <atom:link href="http://ic.unicamp.br/mraimundo/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/mraimundo/tag/machine-learning/</link>
+      <atom:link href="http://localhost:1313/mraimundo/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://ic.unicamp.br/mraimundo/media/icon_hu_ff945c07853dd4a6.png</url>
+      <url>http://localhost:1313/mraimundo/media/icon_hu_ff945c07853dd4a6.png</url>
       <title>Machine Learning</title>
-      <link>http://ic.unicamp.br/mraimundo/tag/machine-learning/</link>
+      <link>http://localhost:1313/mraimundo/tag/machine-learning/</link>
     </image>
     
     <item>
       <title>Ethical Machine Learning (2024)</title>
-      <link>http://ic.unicamp.br/mraimundo/teaching/ai_ethics_2024/</link>
+      <link>http://localhost:1313/mraimundo/teaching/ai_ethics_2024/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/teaching/ai_ethics_2024/</guid>
+      <guid>http://localhost:1313/mraimundo/teaching/ai_ethics_2024/</guid>
       <description>&lt;p&gt;The course empowers students to identify and mitigate negative impacts of data and machine learning tools on vulnerable groups, promoting transparency and ethical solutions. It involves data analysis, application of machine learning models, and understanding optimization problems, with an initial assessment and leveling classes to ensure the necessary foundation.&lt;/p&gt;
 &lt;h2 id=&#34;terminal-objectives&#34;&gt;Terminal Objectives&lt;/h2&gt;
 &lt;p&gt;Students should be able to identify the use of data and machine learning tools that harm individuals and vulnerable groups and use and propose tools that reduce the impact and increase the transparency of such data and tools.&lt;/p&gt;
@@ -94,9 +94,9 @@
     
     <item>
       <title>Fundamentals of Linear Algebra and Optimization for Machine Learning (2024)</title>
-      <link>http://ic.unicamp.br/mraimundo/teaching/ml_algebra/</link>
+      <link>http://localhost:1313/mraimundo/teaching/ml_algebra/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/teaching/ml_algebra/</guid>
+      <guid>http://localhost:1313/mraimundo/teaching/ml_algebra/</guid>
       <description>&lt;p&gt;This course equips students with the mathematical foundations of linear algebra and optimization, crucial for understanding and implementing machine learning algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;final-objectives&#34;&gt;Final Objectives&lt;/h2&gt;
 &lt;p&gt;This course capacitates students to understand, implement, and evaluate machine learning algorithms by providing a solid foundation in the mathematical principles of linear algebra and optimization. Through comprehensive coverage of core concepts like vectors, matrices, linear transformations, eigenvalues, eigenvectors, objective functions, gradient descent, and regularization techniques, students will develop the mathematical skills and intuition necessary to translate real-world problems into mathematical formulations suitable for machine learning solutions. This course emphasizes building a deep understanding of the mathematical foundations upon which machine learning algorithms are built, preparing students for further exploration of advanced topics and ongoing research in the field.&lt;/p&gt;
@@ -120,25 +120,25 @@
     
     <item>
       <title>Fair and Transparent Credit Scoring</title>
-      <link>http://ic.unicamp.br/mraimundo/projects/credit/</link>
+      <link>http://localhost:1313/mraimundo/projects/credit/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/projects/credit/</guid>
+      <guid>http://localhost:1313/mraimundo/projects/credit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ethical AI</title>
-      <link>http://ic.unicamp.br/mraimundo/projects/ethicalai/</link>
+      <link>http://localhost:1313/mraimundo/projects/ethicalai/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/projects/ethicalai/</guid>
+      <guid>http://localhost:1313/mraimundo/projects/ethicalai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiobjective optimization in machine learning</title>
-      <link>http://ic.unicamp.br/mraimundo/projects/mol/</link>
+      <link>http://localhost:1313/mraimundo/projects/mol/</link>
       <pubDate>Thu, 01 May 2014 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/projects/mol/</guid>
+      <guid>http://localhost:1313/mraimundo/projects/mol/</guid>
       <description>&lt;p&gt;Machine learning problems commonly have to deal with implicit or explicit conflicting objectives, thus leading to trade-offs. One of the most traditional is the model complexity vs. error rate on training trade-off. However, more complex is the model, more capable to adapt to data, thus reducing error; and vice-versa. But there are many other conflicting goals such as: error rate on each class; error rate vs. interpretability; error rate vs. fairness metrics.&lt;/p&gt;
 &lt;p&gt;Previous research investigated the impact of optimization methods in machine learning, finding interesting impacts of multi-objective optimization in model selection, ensemble diversity, and knowledge sharing for classification problems, and esulted in applications in biology, medicine, logistics, and power transmissions; and also have theoretical contributions to machine learning, operations research, and multi-objective optimization.&lt;/p&gt;
 &lt;p&gt;This project has three main goals: 1) Create a software framework to ease modeling and running conflicting objectives in machine learning; 2) Investigate theoretical consequences of modeling machine learning problems as multi-objective ones; 3) Creation of models to be employed in a wide sprectrum of applications. As a result, we expect to create a helpful framework that would machine learning experts to model tasks with conflicting objectives.&lt;/p&gt;

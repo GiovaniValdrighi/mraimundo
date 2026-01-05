@@ -16,4 +16,4 @@ echo "---------------------------------------------------"
 
 # --- 2. INICIAR O SERVIDOR (O comando simples) ---
 # Usamos baseURL relativa para garantir que funcione em qualquer lugar
-hugo server --baseURL=/mraimundo/ --appendPort=false --bind=0.0.0.0
+hugo server

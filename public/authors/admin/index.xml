@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marcos M. Raimundo</title>
-    <link>http://ic.unicamp.br/mraimundo/authors/admin/</link>
-      <atom:link href="http://ic.unicamp.br/mraimundo/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/mraimundo/authors/admin/</link>
+      <atom:link href="http://localhost:1313/mraimundo/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     <description>Marcos M. Raimundo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 04 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://ic.unicamp.br/mraimundo/authors/admin/avatar_hu_8e446a319ef0b822.jpg</url>
+      <url>http://localhost:1313/mraimundo/authors/admin/avatar_hu_8e446a319ef0b822.jpg</url>
       <title>Marcos M. Raimundo</title>
-      <link>http://ic.unicamp.br/mraimundo/authors/admin/</link>
+      <link>http://localhost:1313/mraimundo/authors/admin/</link>
     </image>
     
     <item>
       <title>Ethical Machine Learning (2024)</title>
-      <link>http://ic.unicamp.br/mraimundo/teaching/ai_ethics_2024/</link>
+      <link>http://localhost:1313/mraimundo/teaching/ai_ethics_2024/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/teaching/ai_ethics_2024/</guid>
+      <guid>http://localhost:1313/mraimundo/teaching/ai_ethics_2024/</guid>
       <description>&lt;p&gt;The course empowers students to identify and mitigate negative impacts of data and machine learning tools on vulnerable groups, promoting transparency and ethical solutions. It involves data analysis, application of machine learning models, and understanding optimization problems, with an initial assessment and leveling classes to ensure the necessary foundation.&lt;/p&gt;
 &lt;h2 id=&#34;terminal-objectives&#34;&gt;Terminal Objectives&lt;/h2&gt;
 &lt;p&gt;Students should be able to identify the use of data and machine learning tools that harm individuals and vulnerable groups and use and propose tools that reduce the impact and increase the transparency of such data and tools.&lt;/p&gt;
@@ -94,9 +94,9 @@
     
     <item>
       <title>Fundamentals of Linear Algebra and Optimization for Machine Learning (2024)</title>
-      <link>http://ic.unicamp.br/mraimundo/teaching/ml_algebra/</link>
+      <link>http://localhost:1313/mraimundo/teaching/ml_algebra/</link>
       <pubDate>Tue, 04 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/teaching/ml_algebra/</guid>
+      <guid>http://localhost:1313/mraimundo/teaching/ml_algebra/</guid>
       <description>&lt;p&gt;This course equips students with the mathematical foundations of linear algebra and optimization, crucial for understanding and implementing machine learning algorithms.&lt;/p&gt;
 &lt;h2 id=&#34;final-objectives&#34;&gt;Final Objectives&lt;/h2&gt;
 &lt;p&gt;This course capacitates students to understand, implement, and evaluate machine learning algorithms by providing a solid foundation in the mathematical principles of linear algebra and optimization. Through comprehensive coverage of core concepts like vectors, matrices, linear transformations, eigenvalues, eigenvectors, objective functions, gradient descent, and regularization techniques, students will develop the mathematical skills and intuition necessary to translate real-world problems into mathematical formulations suitable for machine learning solutions. This course emphasizes building a deep understanding of the mathematical foundations upon which machine learning algorithms are built, preparing students for further exploration of advanced topics and ongoing research in the field.&lt;/p&gt;
@@ -120,9 +120,9 @@
     
     <item>
       <title>Object-Oriented Programming - MC322</title>
-      <link>http://ic.unicamp.br/mraimundo/teaching/poo/</link>
+      <link>http://localhost:1313/mraimundo/teaching/poo/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/teaching/poo/</guid>
+      <guid>http://localhost:1313/mraimundo/teaching/poo/</guid>
       <description>&lt;p&gt;The course aims to introduce and develop object-oriented thinking in students. It covers fundamental OO concepts such as classes, objects, encapsulation, inheritance, and polymorphism, as well as good practices for designing and implementing classes. It also teaches how to use UML for modeling and apply design patterns, preparing students to create robust and scalable software.&lt;/p&gt;
 &lt;h2 id=&#34;contents&#34;&gt;Contents&lt;/h2&gt;
 &lt;ul&gt;
@@ -157,9 +157,9 @@
     
     <item>
       <title>Aprendizado de Máquina Ético (2022/2023) - Ethical ML</title>
-      <link>http://ic.unicamp.br/mraimundo/teaching/ai_ethics_2022/</link>
+      <link>http://localhost:1313/mraimundo/teaching/ai_ethics_2022/</link>
       <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/teaching/ai_ethics_2022/</guid>
+      <guid>http://localhost:1313/mraimundo/teaching/ai_ethics_2022/</guid>
       <description>&lt;p&gt;A disciplina capacita alunos a identificar e mitigar impactos negativos de dados e ferramentas de aprendizado de máquina em grupos vulneráveis, promovendo transparência e soluções éticas. Envolve análise de dados, aplicação de modelos de aprendizado de máquina e compreensão de problemas de otimização, com uma avaliação inicial e aulas niveladoras para garantir a base necessária.&lt;/p&gt;
 &lt;h2 id=&#34;objetivos-terminais&#34;&gt;Objetivos Terminais&lt;/h2&gt;
 &lt;p&gt;O aluno deverá ser capaz de identificar o uso de dados e de ferramentas de aprendizado de máquina que gerem danos a indivíduos e grupos vulneráveis e utilizar e propor ferramentas que reduzam o impacto e aumentem a transparência de tais dados e ferramentas.&lt;/p&gt;
@@ -242,9 +242,9 @@
     
     <item>
       <title>EEI744 - Pesquisa Operacional II (UFRJ)</title>
-      <link>http://ic.unicamp.br/mraimundo/teaching/po_ii_2021/</link>
+      <link>http://localhost:1313/mraimundo/teaching/po_ii_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/teaching/po_ii_2021/</guid>
+      <guid>http://localhost:1313/mraimundo/teaching/po_ii_2021/</guid>
       <description>&lt;h2 id=&#34;objetivos-terminais&#34;&gt;Objetivos Terminais&lt;/h2&gt;
 &lt;p&gt;O aluno deverá ser capaz de criar modelos de otmização para problemas de estoques, grafos e filas usando otimização não linear, linear, linear-inteira e programação dinâmica.&lt;/p&gt;
 &lt;h2 id=&#34;referências&#34;&gt;Referências&lt;/h2&gt;
@@ -253,9 +253,9 @@
     
     <item>
       <title>EEI946 - Pesquisa Operacional III (UFRJ)</title>
-      <link>http://ic.unicamp.br/mraimundo/teaching/po_iii_2021/</link>
+      <link>http://localhost:1313/mraimundo/teaching/po_iii_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/teaching/po_iii_2021/</guid>
+      <guid>http://localhost:1313/mraimundo/teaching/po_iii_2021/</guid>
       <description>&lt;h2 id=&#34;objetivos-terminais&#34;&gt;Objetivos Terminais&lt;/h2&gt;
 &lt;p&gt;O aluno deverá ser capaz de criar modelos de otmização não linear, linear, linear-inteira e programação dinâmica.&lt;/p&gt;
 &lt;h2 id=&#34;referências&#34;&gt;Referências&lt;/h2&gt;

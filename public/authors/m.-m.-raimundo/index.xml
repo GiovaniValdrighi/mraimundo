@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M. M. Raimundo | Marcos M. Raimundo</title>
-    <link>http://ic.unicamp.br/mraimundo/authors/m.-m.-raimundo/</link>
-      <atom:link href="http://ic.unicamp.br/mraimundo/authors/m.-m.-raimundo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/mraimundo/authors/m.-m.-raimundo/</link>
+      <atom:link href="http://localhost:1313/mraimundo/authors/m.-m.-raimundo/index.xml" rel="self" type="application/rss+xml" />
     <description>M. M. Raimundo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://ic.unicamp.br/mraimundo/media/icon_hu_ff945c07853dd4a6.png</url>
+      <url>http://localhost:1313/mraimundo/media/icon_hu_ff945c07853dd4a6.png</url>
       <title>M. M. Raimundo</title>
-      <link>http://ic.unicamp.br/mraimundo/authors/m.-m.-raimundo/</link>
+      <link>http://localhost:1313/mraimundo/authors/m.-m.-raimundo/</link>
     </image>
     
     <item>
       <title>Investigating multiobjective methods in multitask classification</title>
-      <link>http://ic.unicamp.br/mraimundo/publication/2018_ijcnn/2018_ijcnn/</link>
+      <link>http://localhost:1313/mraimundo/publication/2018_ijcnn/2018_ijcnn/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>http://ic.unicamp.br/mraimundo/publication/2018_ijcnn/2018_ijcnn/</guid>
+      <guid>http://localhost:1313/mraimundo/publication/2018_ijcnn/2018_ijcnn/</guid>
       <description></description>
     </item>
     

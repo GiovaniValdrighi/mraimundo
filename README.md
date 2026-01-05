@@ -1,48 +1,83 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# 🎓 Guia de Colaboração do Laboratório
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+Bem-vindo ao repositório do site do laboratório! Este guia explica como adicionar seu perfil, publicações e projetos de forma simples, usando um ambiente de desenvolvimento na nuvem.
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+## 🚀 Como começar (Passo a Passo)
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+Utilizamos o fluxo **Fork & Pull Request**. Você não precisa instalar nada no seu computador (Git, Hugo, etc); usaremos o **GitHub Codespaces**.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+### 1. Faça um Fork (Crie sua cópia)
+O primeiro passo é criar uma cópia deste repositório na sua conta.
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+1.  Role até o topo desta página.
+2.  Clique no botão **Fork** (canto superior direito).
+3.  Confirme a criação. Agora você tem uma versão `seu-usuario/mraimundo` para editar à vontade.
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+### 2. Inicie o Ambiente (Codespaces)
+O GitHub configurará um computador na nuvem com tudo pronto.
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+1.  No **seu** repositório forkado, clique no botão verde **Code**.
+2.  Vá para a aba **Codespaces**.
+3.  Clique em **Create codespace on main**.
+4.  *Aguarde alguns minutos enquanto o ambiente é configurado.*
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+### 3. Rode o Site
+Para visualizar suas alterações em tempo real, vamos ligar o servidor.
 
-## We ask you, humbly, to support this open source movement
+1.  No VS Code, pressione `F1` (ou `Ctrl` + `Shift` + `P`) para abrir o menu de comandos.
+2.  Digite **Run Task** e dê Enter.
+3.  Selecione **▶️ RUN SERVER**.
+    * *O terminal abrirá. Aguarde aparecer a mensagem `Built in ... ms`.*
+4.  Agora, abra o comando novamente (`F1` -> Run Task) e selecione **🌐 OPEN BROWSER**.
+    * *O site abrirá em uma aba lateral dentro do VS Code.*
 
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
+---
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+## ✏️ Como Editar seu Perfil
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
+1.  No explorador de arquivos à esquerda, navegue até: `content/authors/`.
+2.  **Se você é um novo membro:**
+    * Copie a pasta de algum colega existente (ex: `content/authors/modelo`).
+    * Renomeie a pasta para o seu nome (ex: `joao-silva`).
+    * Edite o arquivo `_index.md` dentro dela com seus dados.
+    * Substitua a foto `avatar.jpg` pela sua (mantenha o nome do arquivo como `avatar.jpg` ou `avatar.jpeg`).
+3.  **Se já existe:** Basta editar seu arquivo `_index.md`.
 
-## Demo credits
+> **Dica:** Sempre que você salvar o arquivo (`Ctrl + S`), o site na aba lateral atualizará automaticamente.
 
-Please replace the demo images with your own.
+---
 
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+## 📤 Enviando suas alterações
+
+Quando estiver satisfeito com o resultado, envie suas modificações para aprovação.
+
+### 1. Salvar (Commit)
+No terminal do VS Code (parte inferior), execute os comandos abaixo na ordem:
+
+```bash
+# 1. Adiciona todos os arquivos que você alterou
+git add .
+
+# 2. Salva o pacote com uma mensagem explicando o que você fez
+git commit -m "Adicionando perfil de Nome do Aluno"
+```
+
+### 2. Enviar (Push)
+Isso envia as alterações do Codespace para o seu GitHub.
+
+```bash
+git push
+```
+
+### 3. Solicitar Aprovação (Pull Request)
+Agora você precisa avisar o repositório oficial que tem novidades.
+
+1. Acesse a página do seu repositório no GitHub (github.com/seu-usuario/mraimundo).
+
+2. Você verá um aviso amarelo: "This branch is 1 commit ahead...".
+
+3. Clique em Contribute > Open Pull Request.
+
+4. Revise se está tudo certo e clique em Create Pull Request.
+
+Pronto! Eu serei notificado, revisarei seu perfil e aceitarei a inclusão no site oficial. 🎉
