@@ -1,0 +1,35 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "▶️ RUN SERVER",
+            "type": "shell",
+            "command": "bash server.sh",
+            "isBackground": true,
+            "problemMatcher": {
+                "owner": "hugo",
+                "pattern": { "regexp": "^.*$" },
+                "background": {
+                    "activeOnStart": true,
+                    "beginsPattern": "Iniciando Hugo Server",
+                    "endsPattern": "Built in"
+                }
+            },
+            "presentation": { "group": "servers", "reveal": "silent" }
+        },
+        {
+            "label": "🌐 OPEN BROWSER",
+            "command": "${input:openSimpleBrowser}",
+            "problemMatcher": [],
+            "group": "none"
+        },
+    ],
+    "inputs": [
+        {
+            "id": "openSimpleBrowser",
+            "type": "command",
+            "command": "simpleBrowser.show",
+            "args": "LINK_MAGICO" 
+        }
+    ]
+}
